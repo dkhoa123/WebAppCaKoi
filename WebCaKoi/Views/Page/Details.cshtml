@@ -1,0 +1,43 @@
+﻿@model IEnumerable<CaKoi.Respository.Entities.DonHangChiTiet>
+<div>
+    <a asp-action="DonHang">Back</a>
+</div>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Tên Loài
+            </th>
+            <th>
+                Số Lượng
+            </th>
+            <th>
+                Giá
+            </th>
+            <th>
+                Tổng Tiền
+            </th>       
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TenLoai)
+                </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SoLuong)
+            </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Gia)
+                </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TongTien)
+            </td>
+             
+        </tr>
+}
+    </tbody>
+</table>
+

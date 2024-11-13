@@ -1,0 +1,14 @@
+D:\CODEWEB\WebCaKoi\CaKoi.Respository\bin\Debug\net8.0\CaKoi.Respository.deps.json
+D:\CODEWEB\WebCaKoi\CaKoi.Respository\bin\Debug\net8.0\CaKoi.Respository.dll
+D:\CODEWEB\WebCaKoi\CaKoi.Respository\bin\Debug\net8.0\CaKoi.Respository.pdb
+D:\CODEWEB\WebCaKoi\CaKoi.Respository\obj\Debug\net8.0\CaKoi.Respository.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODEWEB\WebCaKoi\CaKoi.Respository\obj\Debug\net8.0\CaKoi.Respository.AssemblyInfoInputs.cache
+D:\CODEWEB\WebCaKoi\CaKoi.Respository\obj\Debug\net8.0\CaKoi.Respository.AssemblyInfo.cs
+D:\CODEWEB\WebCaKoi\CaKoi.Respository\obj\Debug\net8.0\CaKoi.Respository.csproj.CoreCompileInputs.cache
+D:\CODEWEB\WebCaKoi\CaKoi.Respository\obj\Debug\net8.0\CaKoi.Respository.dll
+D:\CODEWEB\WebCaKoi\CaKoi.Respository\obj\Debug\net8.0\refint\CaKoi.Respository.dll
+D:\CODEWEB\WebCaKoi\CaKoi.Respository\obj\Debug\net8.0\CaKoi.Respository.pdb
+D:\CODEWEB\WebCaKoi\CaKoi.Respository\obj\Debug\net8.0\ref\CaKoi.Respository.dll
+D:\CODEWEB\WebCaKoi\CaKoi.Respository\bin\Debug\net8.0\CaKoi.Respository.runtimeconfig.json
+D:\CODEWEB\WebCaKoi\CaKoi.Respository\obj\Debug\net8.0\CaKoi.Respository.csproj.AssemblyReference.cache
+D:\CODEWEB\WebCaKoi\CaKoi.Respository\obj\Debug\net8.0\CaKoi.Respository.genruntimeconfig.cache

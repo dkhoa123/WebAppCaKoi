@@ -1,0 +1,317 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CODEWEB\\WebCaKoi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|d:\\codeweb\\webcakoi\\webcakoi\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|solutionrelative:webcakoi\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|d:\\codeweb\\webcakoi\\webcakoi\\views\\shop\\donhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|solutionrelative:webcakoi\\views\\shop\\donhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|d:\\codeweb\\webcakoi\\webcakoi\\views\\page\\trangtrai.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|solutionrelative:webcakoi\\views\\page\\trangtrai.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|d:\\codeweb\\webcakoi\\webcakoi\\views\\page\\shopdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|solutionrelative:webcakoi\\views\\page\\shopdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|d:\\codeweb\\webcakoi\\webcakoi\\views\\page\\shopcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|solutionrelative:webcakoi\\views\\page\\shopcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|d:\\codeweb\\webcakoi\\webcakoi\\views\\page\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|solutionrelative:webcakoi\\views\\page\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|d:\\codeweb\\webcakoi\\webcakoi\\views\\nhanvien\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|solutionrelative:webcakoi\\views\\nhanvien\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|d:\\codeweb\\webcakoi\\webcakoi\\views\\nhanvien\\loginnhanvien.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|solutionrelative:webcakoi\\views\\nhanvien\\loginnhanvien.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|d:\\codeweb\\webcakoi\\webcakoi\\views\\nhanvien\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|solutionrelative:webcakoi\\views\\nhanvien\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|d:\\codeweb\\webcakoi\\webcakoi\\views\\nhanvien\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|solutionrelative:webcakoi\\views\\nhanvien\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|d:\\codeweb\\webcakoi\\webcakoi\\views\\nhanvien\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|solutionrelative:webcakoi\\views\\nhanvien\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|d:\\codeweb\\webcakoi\\webcakoi\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|solutionrelative:webcakoi\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|d:\\codeweb\\webcakoi\\webcakoi\\views\\home\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|solutionrelative:webcakoi\\views\\home\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|d:\\codeweb\\webcakoi\\webcakoi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|solutionrelative:webcakoi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|d:\\codeweb\\webcakoi\\webcakoi\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|solutionrelative:webcakoi\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|d:\\codeweb\\webcakoi\\webcakoi\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|solutionrelative:webcakoi\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|d:\\codeweb\\webcakoi\\webcakoi\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|solutionrelative:webcakoi\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 234,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DonHang.cshtml",
+              "DocumentMoniker": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Views\\Shop\\DonHang.cshtml",
+              "RelativeDocumentMoniker": "WebCaKoi\\Views\\Shop\\DonHang.cshtml",
+              "ToolTip": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Views\\Shop\\DonHang.cshtml",
+              "RelativeToolTip": "WebCaKoi\\Views\\Shop\\DonHang.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T08:25:28.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TrangTrai.cshtml",
+              "DocumentMoniker": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Views\\Page\\TrangTrai.cshtml",
+              "RelativeDocumentMoniker": "WebCaKoi\\Views\\Page\\TrangTrai.cshtml",
+              "ToolTip": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Views\\Page\\TrangTrai.cshtml",
+              "RelativeToolTip": "WebCaKoi\\Views\\Page\\TrangTrai.cshtml",
+              "ViewState": "AgIAAM8AAAAAAAAAAAAAAN4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T08:24:39.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShopCart.cshtml",
+              "DocumentMoniker": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Views\\Page\\ShopCart.cshtml",
+              "RelativeDocumentMoniker": "WebCaKoi\\Views\\Page\\ShopCart.cshtml",
+              "ToolTip": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Views\\Page\\ShopCart.cshtml",
+              "RelativeToolTip": "WebCaKoi\\Views\\Page\\ShopCart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T08:24:31.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Views\\Page\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebCaKoi\\Views\\Page\\Details.cshtml",
+              "ToolTip": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Views\\Page\\Details.cshtml",
+              "RelativeToolTip": "WebCaKoi\\Views\\Page\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T08:24:30.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginNhanVien.cshtml",
+              "DocumentMoniker": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Views\\NhanVien\\LoginNhanVien.cshtml",
+              "RelativeDocumentMoniker": "WebCaKoi\\Views\\NhanVien\\LoginNhanVien.cshtml",
+              "ToolTip": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Views\\NhanVien\\LoginNhanVien.cshtml",
+              "RelativeToolTip": "WebCaKoi\\Views\\NhanVien\\LoginNhanVien.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T08:24:27.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Views\\NhanVien\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebCaKoi\\Views\\NhanVien\\Index.cshtml",
+              "ToolTip": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Views\\NhanVien\\Index.cshtml",
+              "RelativeToolTip": "WebCaKoi\\Views\\NhanVien\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T08:24:26.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Views\\Shop\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebCaKoi\\Views\\Shop\\Index.cshtml",
+              "ToolTip": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Views\\Shop\\Index.cshtml",
+              "RelativeToolTip": "WebCaKoi\\Views\\Shop\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T08:16:18.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Views\\NhanVien\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebCaKoi\\Views\\NhanVien\\Edit.cshtml",
+              "ToolTip": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Views\\NhanVien\\Edit.cshtml",
+              "RelativeToolTip": "WebCaKoi\\Views\\NhanVien\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T08:24:25.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Views\\NhanVien\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebCaKoi\\Views\\NhanVien\\Details.cshtml",
+              "ToolTip": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Views\\NhanVien\\Details.cshtml",
+              "RelativeToolTip": "WebCaKoi\\Views\\NhanVien\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T08:24:24.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShopDetail.cshtml",
+              "DocumentMoniker": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Views\\Page\\ShopDetail.cshtml",
+              "RelativeDocumentMoniker": "WebCaKoi\\Views\\Page\\ShopDetail.cshtml",
+              "ToolTip": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Views\\Page\\ShopDetail.cshtml",
+              "RelativeToolTip": "WebCaKoi\\Views\\Page\\ShopDetail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T08:18:25.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Views\\NhanVien\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebCaKoi\\Views\\NhanVien\\Delete.cshtml",
+              "ToolTip": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Views\\NhanVien\\Delete.cshtml",
+              "RelativeToolTip": "WebCaKoi\\Views\\NhanVien\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T08:24:22.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebCaKoi\\Views\\Home\\Login.cshtml",
+              "ToolTip": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "WebCaKoi\\Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T08:24:19.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SignUp.cshtml",
+              "DocumentMoniker": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Views\\Home\\SignUp.cshtml",
+              "RelativeDocumentMoniker": "WebCaKoi\\Views\\Home\\SignUp.cshtml",
+              "ToolTip": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Views\\Home\\SignUp.cshtml",
+              "RelativeToolTip": "WebCaKoi\\Views\\Home\\SignUp.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T08:24:16.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebCaKoi\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebCaKoi\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T08:24:03.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "WebCaKoi\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "WebCaKoi\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T08:23:41.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "WebCaKoi\\Controllers\\ShopController.cs",
+              "ToolTip": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "WebCaKoi\\Controllers\\ShopController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T08:16:15.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "WebCaKoi\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "WebCaKoi\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T09:08:47.504Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 166,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1243,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

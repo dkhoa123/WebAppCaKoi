@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+<<<<<<< HEAD
+    <PackageReference Include="Microsoft.AspNetCore.Http" Version="2.2.2" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+=======
+>>>>>>> cf7a9847859f73a1fb7551d65a287d0e7c781ced
+    <ProjectReference Include="..\CaKoi.Respositories\CaKoi.Respositories.csproj" />
+  </ItemGroup>
+
+</Project>

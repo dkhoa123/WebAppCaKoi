@@ -1,0 +1,41 @@
+﻿@using CaKoi.Respository.Entities
+@model List<DonHang>;
+<h4>Lịch Sử Mua Hàng</h4>
+
+<div>
+    <a asp-controller="Home" asp-action="Index" class="btn btn-primary">Back to Home</a>
+</div>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Ngày Mua
+            </th>
+            <th>
+                Ngày Giao
+            </th>
+            <th>
+                Trạng Thái Giao Hàng
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NgayMua)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NgayGiao)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TrangThai)
+            </td>
+            <td>
+                <a asp-action="Details" asp-route-id="@item.Idkh">Details</a> |
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

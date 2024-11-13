@@ -1,0 +1,35 @@
+﻿@model CaKoi.Respository.Entities.DonHang
+
+<h4>DonHang</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="DonHang">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <input type="hidden" asp-for="Idkh" class="form-control" />
+
+            <div class="form-group">
+                <label asp-for="NgayMua" class="control-label"></label>
+                <input type="date" asp-for="NgayMua" class="form-control" />
+                <span asp-validation-for="NgayMua" class="text-danger"></span>
+            </div>
+
+            <input type="hidden" asp-for="NgayGiao" class="form-control" />
+
+            <input type="hidden" asp-for="TrangThai" class="form-control" />
+
+
+            <input type="hidden" asp-for="ChoDuyet" class="form-control" />
+
+            <div class="form-group">
+                <input type="submit" value="Xác Nhận" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="ShopCart" asp-controller="Page">Back to List</a>
+</div>
+

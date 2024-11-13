@@ -1,0 +1,15 @@
+D:\CODEWEB\WebCaKoi\CaKoi.Service\bin\Debug\net8.0\CaKoi.Service.deps.json
+D:\CODEWEB\WebCaKoi\CaKoi.Service\bin\Debug\net8.0\CaKoi.Service.dll
+D:\CODEWEB\WebCaKoi\CaKoi.Service\bin\Debug\net8.0\CaKoi.Service.pdb
+D:\CODEWEB\WebCaKoi\CaKoi.Service\obj\Debug\net8.0\CaKoi.Service.csproj.AssemblyReference.cache
+D:\CODEWEB\WebCaKoi\CaKoi.Service\obj\Debug\net8.0\CaKoi.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODEWEB\WebCaKoi\CaKoi.Service\obj\Debug\net8.0\CaKoi.Service.AssemblyInfoInputs.cache
+D:\CODEWEB\WebCaKoi\CaKoi.Service\obj\Debug\net8.0\CaKoi.Service.AssemblyInfo.cs
+D:\CODEWEB\WebCaKoi\CaKoi.Service\obj\Debug\net8.0\CaKoi.Service.csproj.CoreCompileInputs.cache
+D:\CODEWEB\WebCaKoi\CaKoi.Service\obj\Debug\net8.0\CaKoi.Se.85112262.Up2Date
+D:\CODEWEB\WebCaKoi\CaKoi.Service\obj\Debug\net8.0\CaKoi.Service.dll
+D:\CODEWEB\WebCaKoi\CaKoi.Service\obj\Debug\net8.0\refint\CaKoi.Service.dll
+D:\CODEWEB\WebCaKoi\CaKoi.Service\obj\Debug\net8.0\CaKoi.Service.pdb
+D:\CODEWEB\WebCaKoi\CaKoi.Service\obj\Debug\net8.0\ref\CaKoi.Service.dll
+D:\CODEWEB\WebCaKoi\CaKoi.Service\bin\Debug\net8.0\CaKoi.Respository.dll
+D:\CODEWEB\WebCaKoi\CaKoi.Service\bin\Debug\net8.0\CaKoi.Respository.pdb

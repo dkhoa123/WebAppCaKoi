@@ -1,0 +1,54 @@
+﻿@{
+    Layout = "LayoutAdmin";
+}
+@using CaKoi.Respository.Entities;
+@model List<DonHang>;
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                ID Khách Hàng
+            </th>
+            <th>
+                Ngày Mua
+            </th>
+            <th>
+                Ngày Giao
+            </th>
+            <th>
+                Trạng Thái
+            </th>
+            <th>
+                Chờ Duyệt
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Idkh)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NgayMua)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NgayGiao)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TrangThai)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ChoDuyet)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.IddonHang">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Idkh">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.IddonHang">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
