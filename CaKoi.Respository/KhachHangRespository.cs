@@ -22,7 +22,33 @@ namespace CaKoi.Respository
             _context.SaveChanges();
             return true;
         }
-       
+
+        public async Task<bool> CapnhatKH(int idkh, KhachHang kh)
+        {
+            var khach = await _context.KhachHangs.FindAsync(idkh);
+            if (khach == null) return false;
+
+            khach.TenTaiKhoan = kh.TenTaiKhoan;
+            khach.MatKhau = kh.MatKhau;
+            khach.Hoten = kh.Hoten;
+            khach.Ngaysinh = kh.Ngaysinh;
+            khach.Gioitinh = kh.Gioitinh;
+            khach.Sdt = kh.Sdt;
+            khach.Email = kh.Email;
+            await _context.SaveChangesAsync();
+            return true;
+        }
+
+        public async Task<bool> DeleteKH(int id)
+        {
+            var kh = await _context.KhachHangs.FindAsync(id);
+            if(kh != null)
+            {
+                _context.Remove(kh);
+                _context.SaveChanges();
+            }
+            return true;
+        }
 
         public KhachHang GetKhachByID(int id)
         {

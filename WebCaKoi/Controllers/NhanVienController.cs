@@ -54,17 +54,15 @@ namespace WebCaKoi.Controllers
             ViewBag.Error = "Tài khoản hoặc mật khẩu không đúng!";
             return View();
         }
-
         public async Task<IActionResult> LogoutNhanVien()
         {
             HttpContext.Session.Clear();
             // Thực hiện đăng xuất
-            await HttpContext.SignOutAsync();
+            await HttpContext.SignOutAsync("EmployeeCookie");
 
             // Chuyển hướng đến trang chủ hoặc trang đăng nhập
-            return RedirectToAction("Loginn");
+            return RedirectToAction("Index");
         }
-
         public async Task<IActionResult> Details(int id)
         {
             var donchitiet = await _service.GetDonHangChiTiets(id);

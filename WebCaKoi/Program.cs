@@ -37,6 +37,10 @@ namespace WebCaKoi
      {
          options.LoginPath = "/NhanVien/LoginNhanVien"; // Đường dẫn đăng nhập cho nhân viên
          options.LogoutPath = "/NhanVien/LogoutNhanVien"; // Đường dẫn đăng xuất cho nhân viên
+     }).AddCookie("AdminCookie", options =>
+     {
+         options.LoginPath = "/Admin/LoginAD"; // Đường dẫn đăng nhập cho nhân viên
+         options.LogoutPath = "/Admin/LogoutAD"; // Đường dẫn đăng xuất cho nhân viên
      });
             //phân quyền
             builder.Services.AddAuthorization(options =>
@@ -48,6 +52,9 @@ namespace WebCaKoi
                 // Policy cho nhân viên (kiểm tra claim "Idnv")
                 options.AddPolicy("EmployeePolicy", policy =>
                     policy.RequireClaim("Idnv"));
+                //
+                options.AddPolicy("AdminPolicy", policy =>
+                   policy.RequireClaim("Idad"));
             });
 
             // Add services to the container.

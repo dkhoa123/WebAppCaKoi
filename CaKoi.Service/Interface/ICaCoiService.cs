@@ -11,5 +11,8 @@ namespace CaKoi.Service.Interface
     {
         Task<List<CaCoi>> GetCaCois();
         CaCoi GetCaKoiByID(int id);
+        Boolean AddCa(CaCoi caCoi);
+        Task<bool> CapNhatCa(int id, CaCoi ca);
+        Task<bool> DeleteCa(int id);
     }
 }

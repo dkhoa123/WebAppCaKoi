@@ -11,9 +11,10 @@ namespace CaKoi.Respository.Interface
     {
         void AddToCart(DonHangChiTiet donHangChiTiet);
         IEnumerable<DonHangChiTiet> GetCartItems();
-        DonHangChiTiet GetItemByCaKoiId(int idcaKoi);
+        DonHangChiTiet GetItemByCaKoiId(int idkh, int idcaKoi);
         void UpdateCartItem(DonHangChiTiet dct);
         void Deletecart(int id);
         decimal GetTotal();
+        decimal GetTotal(int id);
     }
 }

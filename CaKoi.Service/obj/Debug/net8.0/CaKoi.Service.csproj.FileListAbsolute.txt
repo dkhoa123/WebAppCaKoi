@@ -13,3 +13,4 @@ D:\CODEWEB\WebCaKoi\CaKoi.Service\obj\Debug\net8.0\CaKoi.Service.pdb
 D:\CODEWEB\WebCaKoi\CaKoi.Service\obj\Debug\net8.0\ref\CaKoi.Service.dll
 D:\CODEWEB\WebCaKoi\CaKoi.Service\bin\Debug\net8.0\CaKoi.Respository.dll
 D:\CODEWEB\WebCaKoi\CaKoi.Service\bin\Debug\net8.0\CaKoi.Respository.pdb
+D:\CODEWEB\WebCaKoi\CaKoi.Service\obj\Debug\net8.0\CaKoi.Service.sourcelink.json

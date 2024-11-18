@@ -3,72 +3,80 @@
   "WorkspaceRootPath": "D:\\CODEWEB\\WebCaKoi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|d:\\codeweb\\webcakoi\\webcakoi\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|solutionrelative:webcakoi\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|d:\\codeweb\\webcakoi\\webcakoi\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|solutionrelative:webcakoi\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|d:\\codeweb\\webcakoi\\webcakoi\\views\\shop\\donhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|solutionrelative:webcakoi\\views\\shop\\donhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A66579E8-492C-4659-B568-C6811EFFE786}|CaKoi.Service\\CaKoi.Service.csproj|d:\\codeweb\\webcakoi\\cakoi.service\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66579E8-492C-4659-B568-C6811EFFE786}|CaKoi.Service\\CaKoi.Service.csproj|solutionrelative:cakoi.service\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|d:\\codeweb\\webcakoi\\webcakoi\\views\\page\\trangtrai.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|solutionrelative:webcakoi\\views\\page\\trangtrai.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|d:\\codeweb\\webcakoi\\webcakoi\\views\\shared\\layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|solutionrelative:webcakoi\\views\\shared\\layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|d:\\codeweb\\webcakoi\\webcakoi\\views\\page\\shopdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|solutionrelative:webcakoi\\views\\page\\shopdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|d:\\codeweb\\webcakoi\\webcakoi\\views\\admin\\editkh.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|solutionrelative:webcakoi\\views\\admin\\editkh.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|d:\\codeweb\\webcakoi\\webcakoi\\views\\admin\\editca.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|solutionrelative:webcakoi\\views\\admin\\editca.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|d:\\codeweb\\webcakoi\\webcakoi\\controllers\\pagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|solutionrelative:webcakoi\\controllers\\pagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66579E8-492C-4659-B568-C6811EFFE786}|CaKoi.Service\\CaKoi.Service.csproj|d:\\codeweb\\webcakoi\\cakoi.service\\cacoiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66579E8-492C-4659-B568-C6811EFFE786}|CaKoi.Service\\CaKoi.Service.csproj|solutionrelative:cakoi.service\\cacoiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72CA2739-0590-4434-8503-EF0DC0BBC8F9}|CaKoi.Respository\\CaKoi.Respository.csproj|d:\\codeweb\\webcakoi\\cakoi.respository\\cartrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72CA2739-0590-4434-8503-EF0DC0BBC8F9}|CaKoi.Respository\\CaKoi.Respository.csproj|solutionrelative:cakoi.respository\\cartrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66579E8-492C-4659-B568-C6811EFFE786}|CaKoi.Service\\CaKoi.Service.csproj|d:\\codeweb\\webcakoi\\cakoi.service\\interface\\icacoiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66579E8-492C-4659-B568-C6811EFFE786}|CaKoi.Service\\CaKoi.Service.csproj|solutionrelative:cakoi.service\\interface\\icacoiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72CA2739-0590-4434-8503-EF0DC0BBC8F9}|CaKoi.Respository\\CaKoi.Respository.csproj|d:\\codeweb\\webcakoi\\cakoi.respository\\interface\\icartrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72CA2739-0590-4434-8503-EF0DC0BBC8F9}|CaKoi.Respository\\CaKoi.Respository.csproj|solutionrelative:cakoi.respository\\interface\\icartrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66579E8-492C-4659-B568-C6811EFFE786}|CaKoi.Service\\CaKoi.Service.csproj|d:\\codeweb\\webcakoi\\cakoi.service\\interface\\ikhachhangservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66579E8-492C-4659-B568-C6811EFFE786}|CaKoi.Service\\CaKoi.Service.csproj|solutionrelative:cakoi.service\\interface\\ikhachhangservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66579E8-492C-4659-B568-C6811EFFE786}|CaKoi.Service\\CaKoi.Service.csproj|d:\\codeweb\\webcakoi\\cakoi.service\\interface\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66579E8-492C-4659-B568-C6811EFFE786}|CaKoi.Service\\CaKoi.Service.csproj|solutionrelative:cakoi.service\\interface\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66579E8-492C-4659-B568-C6811EFFE786}|CaKoi.Service\\CaKoi.Service.csproj|d:\\codeweb\\webcakoi\\cakoi.service\\khachhangservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66579E8-492C-4659-B568-C6811EFFE786}|CaKoi.Service\\CaKoi.Service.csproj|solutionrelative:cakoi.service\\khachhangservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72CA2739-0590-4434-8503-EF0DC0BBC8F9}|CaKoi.Respository\\CaKoi.Respository.csproj|d:\\codeweb\\webcakoi\\cakoi.respository\\khachhangrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72CA2739-0590-4434-8503-EF0DC0BBC8F9}|CaKoi.Respository\\CaKoi.Respository.csproj|solutionrelative:cakoi.respository\\khachhangrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72CA2739-0590-4434-8503-EF0DC0BBC8F9}|CaKoi.Respository\\CaKoi.Respository.csproj|d:\\codeweb\\webcakoi\\cakoi.respository\\interface\\ikhachhangrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72CA2739-0590-4434-8503-EF0DC0BBC8F9}|CaKoi.Respository\\CaKoi.Respository.csproj|solutionrelative:cakoi.respository\\interface\\ikhachhangrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72CA2739-0590-4434-8503-EF0DC0BBC8F9}|CaKoi.Respository\\CaKoi.Respository.csproj|d:\\codeweb\\webcakoi\\cakoi.respository\\interface\\icacoirespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72CA2739-0590-4434-8503-EF0DC0BBC8F9}|CaKoi.Respository\\CaKoi.Respository.csproj|solutionrelative:cakoi.respository\\interface\\icacoirespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72CA2739-0590-4434-8503-EF0DC0BBC8F9}|CaKoi.Respository\\CaKoi.Respository.csproj|d:\\codeweb\\webcakoi\\cakoi.respository\\cacoirespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72CA2739-0590-4434-8503-EF0DC0BBC8F9}|CaKoi.Respository\\CaKoi.Respository.csproj|solutionrelative:cakoi.respository\\cacoirespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|d:\\codeweb\\webcakoi\\webcakoi\\views\\page\\shopcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|solutionrelative:webcakoi\\views\\page\\shopcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|d:\\codeweb\\webcakoi\\webcakoi\\views\\page\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|solutionrelative:webcakoi\\views\\page\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|d:\\codeweb\\webcakoi\\webcakoi\\views\\nhanvien\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|solutionrelative:webcakoi\\views\\nhanvien\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|d:\\codeweb\\webcakoi\\webcakoi\\views\\nhanvien\\loginnhanvien.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|solutionrelative:webcakoi\\views\\nhanvien\\loginnhanvien.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|d:\\codeweb\\webcakoi\\webcakoi\\views\\nhanvien\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|solutionrelative:webcakoi\\views\\nhanvien\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|d:\\codeweb\\webcakoi\\webcakoi\\views\\nhanvien\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|solutionrelative:webcakoi\\views\\nhanvien\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|d:\\codeweb\\webcakoi\\webcakoi\\views\\nhanvien\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|solutionrelative:webcakoi\\views\\nhanvien\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|d:\\codeweb\\webcakoi\\webcakoi\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|solutionrelative:webcakoi\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|d:\\codeweb\\webcakoi\\webcakoi\\views\\home\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|solutionrelative:webcakoi\\views\\home\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|d:\\codeweb\\webcakoi\\webcakoi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|solutionrelative:webcakoi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|d:\\codeweb\\webcakoi\\webcakoi\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|solutionrelative:webcakoi\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|d:\\codeweb\\webcakoi\\webcakoi\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|solutionrelative:webcakoi\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|d:\\codeweb\\webcakoi\\webcakoi\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|solutionrelative:webcakoi\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|d:\\codeweb\\webcakoi\\webcakoi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09C702A-6D3C-47D5-9A9C-D2603415A427}|WebCaKoi\\WebCaKoi.csproj|solutionrelative:webcakoi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,7 +86,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 234,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,208 +94,232 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DonHang.cshtml",
-              "DocumentMoniker": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Views\\Shop\\DonHang.cshtml",
-              "RelativeDocumentMoniker": "WebCaKoi\\Views\\Shop\\DonHang.cshtml",
-              "ToolTip": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Views\\Shop\\DonHang.cshtml",
-              "RelativeToolTip": "WebCaKoi\\Views\\Shop\\DonHang.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-11T08:25:28.032Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "TrangTrai.cshtml",
-              "DocumentMoniker": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Views\\Page\\TrangTrai.cshtml",
-              "RelativeDocumentMoniker": "WebCaKoi\\Views\\Page\\TrangTrai.cshtml",
-              "ToolTip": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Views\\Page\\TrangTrai.cshtml",
-              "RelativeToolTip": "WebCaKoi\\Views\\Page\\TrangTrai.cshtml",
-              "ViewState": "AgIAAM8AAAAAAAAAAAAAAN4AAAATAAAAAAAAAA==",
+              "Title": "LayoutAdmin.cshtml",
+              "DocumentMoniker": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Views\\Shared\\LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "WebCaKoi\\Views\\Shared\\LayoutAdmin.cshtml",
+              "ToolTip": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Views\\Shared\\LayoutAdmin.cshtml",
+              "RelativeToolTip": "WebCaKoi\\Views\\Shared\\LayoutAdmin.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADAAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-11T08:24:39.097Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ShopCart.cshtml",
-              "DocumentMoniker": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Views\\Page\\ShopCart.cshtml",
-              "RelativeDocumentMoniker": "WebCaKoi\\Views\\Page\\ShopCart.cshtml",
-              "ToolTip": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Views\\Page\\ShopCart.cshtml",
-              "RelativeToolTip": "WebCaKoi\\Views\\Page\\ShopCart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-11T08:24:31.2Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Views\\Page\\Details.cshtml",
-              "RelativeDocumentMoniker": "WebCaKoi\\Views\\Page\\Details.cshtml",
-              "ToolTip": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Views\\Page\\Details.cshtml",
-              "RelativeToolTip": "WebCaKoi\\Views\\Page\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-11T08:24:30.026Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LoginNhanVien.cshtml",
-              "DocumentMoniker": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Views\\NhanVien\\LoginNhanVien.cshtml",
-              "RelativeDocumentMoniker": "WebCaKoi\\Views\\NhanVien\\LoginNhanVien.cshtml",
-              "ToolTip": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Views\\NhanVien\\LoginNhanVien.cshtml",
-              "RelativeToolTip": "WebCaKoi\\Views\\NhanVien\\LoginNhanVien.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-11T08:24:27.143Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Views\\NhanVien\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebCaKoi\\Views\\NhanVien\\Index.cshtml",
-              "ToolTip": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Views\\NhanVien\\Index.cshtml",
-              "RelativeToolTip": "WebCaKoi\\Views\\NhanVien\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-11T08:24:26.222Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Views\\Shop\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebCaKoi\\Views\\Shop\\Index.cshtml",
-              "ToolTip": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Views\\Shop\\Index.cshtml",
-              "RelativeToolTip": "WebCaKoi\\Views\\Shop\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-11T08:16:18.929Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Views\\NhanVien\\Edit.cshtml",
-              "RelativeDocumentMoniker": "WebCaKoi\\Views\\NhanVien\\Edit.cshtml",
-              "ToolTip": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Views\\NhanVien\\Edit.cshtml",
-              "RelativeToolTip": "WebCaKoi\\Views\\NhanVien\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-11T08:24:25.515Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Views\\NhanVien\\Details.cshtml",
-              "RelativeDocumentMoniker": "WebCaKoi\\Views\\NhanVien\\Details.cshtml",
-              "ToolTip": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Views\\NhanVien\\Details.cshtml",
-              "RelativeToolTip": "WebCaKoi\\Views\\NhanVien\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-11T08:24:24.819Z"
+              "WhenOpened": "2024-11-18T03:29:17.801Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ShopDetail.cshtml",
-              "DocumentMoniker": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Views\\Page\\ShopDetail.cshtml",
-              "RelativeDocumentMoniker": "WebCaKoi\\Views\\Page\\ShopDetail.cshtml",
-              "ToolTip": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Views\\Page\\ShopDetail.cshtml",
-              "RelativeToolTip": "WebCaKoi\\Views\\Page\\ShopDetail.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAZAAAAAAAAAA==",
+              "Title": "EditKH.cshtml",
+              "DocumentMoniker": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Views\\Admin\\EditKH.cshtml",
+              "RelativeDocumentMoniker": "WebCaKoi\\Views\\Admin\\EditKH.cshtml",
+              "ToolTip": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Views\\Admin\\EditKH.cshtml",
+              "RelativeToolTip": "WebCaKoi\\Views\\Admin\\EditKH.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADYAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-11T08:18:25.698Z"
+              "WhenOpened": "2024-11-18T03:26:53.834Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Views\\NhanVien\\Delete.cshtml",
-              "RelativeDocumentMoniker": "WebCaKoi\\Views\\NhanVien\\Delete.cshtml",
-              "ToolTip": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Views\\NhanVien\\Delete.cshtml",
-              "RelativeToolTip": "WebCaKoi\\Views\\NhanVien\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "EditCa.cshtml",
+              "DocumentMoniker": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Views\\Admin\\EditCa.cshtml",
+              "RelativeDocumentMoniker": "WebCaKoi\\Views\\Admin\\EditCa.cshtml",
+              "ToolTip": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Views\\Admin\\EditCa.cshtml",
+              "RelativeToolTip": "WebCaKoi\\Views\\Admin\\EditCa.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAADwvzEAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-11T08:24:22.695Z"
+              "WhenOpened": "2024-11-18T03:16:29.483Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Views\\Home\\Login.cshtml",
-              "RelativeDocumentMoniker": "WebCaKoi\\Views\\Home\\Login.cshtml",
-              "ToolTip": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Views\\Home\\Login.cshtml",
-              "RelativeToolTip": "WebCaKoi\\Views\\Home\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-11T08:24:19.126Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "SignUp.cshtml",
-              "DocumentMoniker": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Views\\Home\\SignUp.cshtml",
-              "RelativeDocumentMoniker": "WebCaKoi\\Views\\Home\\SignUp.cshtml",
-              "ToolTip": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Views\\Home\\SignUp.cshtml",
-              "RelativeToolTip": "WebCaKoi\\Views\\Home\\SignUp.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-11T08:24:16.734Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebCaKoi\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "WebCaKoi\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-11T08:24:03.735Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Contact.cshtml",
-              "DocumentMoniker": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Views\\Home\\Contact.cshtml",
-              "RelativeDocumentMoniker": "WebCaKoi\\Views\\Home\\Contact.cshtml",
-              "ToolTip": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Views\\Home\\Contact.cshtml",
-              "RelativeToolTip": "WebCaKoi\\Views\\Home\\Contact.cshtml",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-11T08:23:41.943Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ShopController.cs",
-              "DocumentMoniker": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Controllers\\ShopController.cs",
-              "RelativeDocumentMoniker": "WebCaKoi\\Controllers\\ShopController.cs",
-              "ToolTip": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Controllers\\ShopController.cs",
-              "RelativeToolTip": "WebCaKoi\\Controllers\\ShopController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAArAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "CaCoiService.cs",
+              "DocumentMoniker": "D:\\CODEWEB\\WebCaKoi\\CaKoi.Service\\CaCoiService.cs",
+              "RelativeDocumentMoniker": "CaKoi.Service\\CaCoiService.cs",
+              "ToolTip": "D:\\CODEWEB\\WebCaKoi\\CaKoi.Service\\CaCoiService.cs",
+              "RelativeToolTip": "CaKoi.Service\\CaCoiService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAqwBYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T08:16:15.631Z"
+              "WhenOpened": "2024-11-18T02:33:20.377Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 0,
               "Title": "AdminController.cs",
               "DocumentMoniker": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "WebCaKoi\\Controllers\\AdminController.cs",
               "ToolTip": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Controllers\\AdminController.cs",
               "RelativeToolTip": "WebCaKoi\\Controllers\\AdminController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwB0AAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T09:08:47.504Z"
+              "WhenOpened": "2024-11-18T02:32:35.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "D:\\CODEWEB\\WebCaKoi\\CaKoi.Service\\CartService.cs",
+              "RelativeDocumentMoniker": "CaKoi.Service\\CartService.cs",
+              "ToolTip": "D:\\CODEWEB\\WebCaKoi\\CaKoi.Service\\CartService.cs",
+              "RelativeToolTip": "CaKoi.Service\\CartService.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwEUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T16:33:09.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICaCoiService.cs",
+              "DocumentMoniker": "D:\\CODEWEB\\WebCaKoi\\CaKoi.Service\\Interface\\ICaCoiService.cs",
+              "RelativeDocumentMoniker": "CaKoi.Service\\Interface\\ICaCoiService.cs",
+              "ToolTip": "D:\\CODEWEB\\WebCaKoi\\CaKoi.Service\\Interface\\ICaCoiService.cs",
+              "RelativeToolTip": "CaKoi.Service\\Interface\\ICaCoiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T02:23:05.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PageController.cs",
+              "DocumentMoniker": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Controllers\\PageController.cs",
+              "RelativeDocumentMoniker": "WebCaKoi\\Controllers\\PageController.cs",
+              "ToolTip": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Controllers\\PageController.cs",
+              "RelativeToolTip": "WebCaKoi\\Controllers\\PageController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAA9wDMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T16:32:45.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICartRespository.cs",
+              "DocumentMoniker": "D:\\CODEWEB\\WebCaKoi\\CaKoi.Respository\\Interface\\ICartRespository.cs",
+              "RelativeDocumentMoniker": "CaKoi.Respository\\Interface\\ICartRespository.cs",
+              "ToolTip": "D:\\CODEWEB\\WebCaKoi\\CaKoi.Respository\\Interface\\ICartRespository.cs",
+              "RelativeToolTip": "CaKoi.Respository\\Interface\\ICartRespository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T02:16:36.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CartRespository.cs",
+              "DocumentMoniker": "D:\\CODEWEB\\WebCaKoi\\CaKoi.Respository\\CartRespository.cs",
+              "RelativeDocumentMoniker": "CaKoi.Respository\\CartRespository.cs",
+              "ToolTip": "D:\\CODEWEB\\WebCaKoi\\CaKoi.Respository\\CartRespository.cs",
+              "RelativeToolTip": "CaKoi.Respository\\CartRespository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABoAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T16:33:25.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICartService.cs",
+              "DocumentMoniker": "D:\\CODEWEB\\WebCaKoi\\CaKoi.Service\\Interface\\ICartService.cs",
+              "RelativeDocumentMoniker": "CaKoi.Service\\Interface\\ICartService.cs",
+              "ToolTip": "D:\\CODEWEB\\WebCaKoi\\CaKoi.Service\\Interface\\ICartService.cs",
+              "RelativeToolTip": "CaKoi.Service\\Interface\\ICartService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T02:20:40.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IKhachHangService.cs",
+              "DocumentMoniker": "D:\\CODEWEB\\WebCaKoi\\CaKoi.Service\\Interface\\IKhachHangService.cs",
+              "RelativeDocumentMoniker": "CaKoi.Service\\Interface\\IKhachHangService.cs",
+              "ToolTip": "D:\\CODEWEB\\WebCaKoi\\CaKoi.Service\\Interface\\IKhachHangService.cs",
+              "RelativeToolTip": "CaKoi.Service\\Interface\\IKhachHangService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T02:30:24.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "KhachHangService.cs",
+              "DocumentMoniker": "D:\\CODEWEB\\WebCaKoi\\CaKoi.Service\\KhachHangService.cs",
+              "RelativeDocumentMoniker": "CaKoi.Service\\KhachHangService.cs",
+              "ToolTip": "D:\\CODEWEB\\WebCaKoi\\CaKoi.Service\\KhachHangService.cs",
+              "RelativeToolTip": "CaKoi.Service\\KhachHangService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T02:30:31.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "KhachHangRespository.cs",
+              "DocumentMoniker": "D:\\CODEWEB\\WebCaKoi\\CaKoi.Respository\\KhachHangRespository.cs",
+              "RelativeDocumentMoniker": "CaKoi.Respository\\KhachHangRespository.cs",
+              "ToolTip": "D:\\CODEWEB\\WebCaKoi\\CaKoi.Respository\\KhachHangRespository.cs",
+              "RelativeToolTip": "CaKoi.Respository\\KhachHangRespository.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwDYAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T02:29:26.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IKhachHangRespository.cs",
+              "DocumentMoniker": "D:\\CODEWEB\\WebCaKoi\\CaKoi.Respository\\Interface\\IKhachHangRespository.cs",
+              "RelativeDocumentMoniker": "CaKoi.Respository\\Interface\\IKhachHangRespository.cs",
+              "ToolTip": "D:\\CODEWEB\\WebCaKoi\\CaKoi.Respository\\Interface\\IKhachHangRespository.cs",
+              "RelativeToolTip": "CaKoi.Respository\\Interface\\IKhachHangRespository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T02:28:50.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ICaCoiRespository.cs",
+              "DocumentMoniker": "D:\\CODEWEB\\WebCaKoi\\CaKoi.Respository\\Interface\\ICaCoiRespository.cs",
+              "RelativeDocumentMoniker": "CaKoi.Respository\\Interface\\ICaCoiRespository.cs",
+              "ToolTip": "D:\\CODEWEB\\WebCaKoi\\CaKoi.Respository\\Interface\\ICaCoiRespository.cs",
+              "RelativeToolTip": "CaKoi.Respository\\Interface\\ICaCoiRespository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T02:23:46.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CaCoiRespository.cs",
+              "DocumentMoniker": "D:\\CODEWEB\\WebCaKoi\\CaKoi.Respository\\CaCoiRespository.cs",
+              "RelativeDocumentMoniker": "CaKoi.Respository\\CaCoiRespository.cs",
+              "ToolTip": "D:\\CODEWEB\\WebCaKoi\\CaKoi.Respository\\CaCoiRespository.cs",
+              "RelativeToolTip": "CaKoi.Respository\\CaCoiRespository.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAA5wDsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T02:23:35.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Program.cs",
+              "RelativeDocumentMoniker": "WebCaKoi\\Program.cs",
+              "ToolTip": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Program.cs",
+              "RelativeToolTip": "WebCaKoi\\Program.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwEEAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T17:03:58.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ShopCart.cshtml",
+              "DocumentMoniker": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Views\\Page\\ShopCart.cshtml",
+              "RelativeDocumentMoniker": "WebCaKoi\\Views\\Page\\ShopCart.cshtml",
+              "ToolTip": "D:\\CODEWEB\\WebCaKoi\\WebCaKoi\\Views\\Page\\ShopCart.cshtml",
+              "RelativeToolTip": "WebCaKoi\\Views\\Page\\ShopCart.cshtml",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAFoAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T17:09:01.518Z"
             }
           ]
         },

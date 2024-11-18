@@ -11,6 +11,8 @@ namespace CaKoi.Respository.Interface
     {
         CaCoi GetItemByCaKoiId(int id);
         Task<List<CaCoi>> GetCaCois();
-        void DeleteCa(int id);
+        Boolean AddCa(CaCoi ca);
+        Task<bool> CapNhatCa(int id, CaCoi ca);
+        Task<bool> DeleteCa(int id);
     }
 }

@@ -59,7 +59,7 @@
                 }
                 else
                 {
-                    <a href="@Url.Action("Login", "Account")">Login</a>
+                    <a href="@Url.Action("LoginNhanVien", "NhanVien")">Login</a>
                 }
                 @if (!string.IsNullOrEmpty(tenTaiKhoan))
                 {
@@ -67,7 +67,7 @@
                 }
                 else
                 {
-                    <a href="@Url.Action("Login", "Account")">Login</a>
+                    <a href="@Url.Action("Login", "Home")">Login</a>
                 }
             </div>
         </div>
@@ -128,7 +128,7 @@
                                 {
                                     
                                     <a href="~/NhanVien"><i class="fa fa-user"></i> @TKnhanvien</a>
-                                    <a class="dropdown-item" asp-controller="Home" asp-action="Logout" class="logout-link"><i class="fa fa-user"></i> Logout</a>
+                                    <a class="dropdown-item" asp-controller="NhanVien" asp-action="LogoutNhanVien" class="logout-link"><i class="fa fa-user"></i> Logout</a>
                                 }
                                 else if (!string.IsNullOrEmpty(tenTaiKhoan))
                                 {

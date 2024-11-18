@@ -68,7 +68,7 @@ namespace WebCaKoi.Controllers
         {
             HttpContext.Session.Clear();
             // Thực hiện đăng xuất
-            await HttpContext.SignOutAsync();
+            await HttpContext.SignOutAsync("CookieAuth");
 
             // Chuyển hướng đến trang chủ hoặc trang đăng nhập
             return RedirectToAction("Index", "Home");

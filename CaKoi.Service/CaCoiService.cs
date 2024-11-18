@@ -26,5 +26,20 @@ namespace CaKoi.Service
         {
             return _respository.GetCaCois();
         }
+
+        public bool AddCa(CaCoi caCoi)
+        {
+            return _respository.AddCa(caCoi);
+        }
+
+        public async Task<bool> CapNhatCa(int id, CaCoi ca)
+        {
+            return await _respository.CapNhatCa(id, ca);
+        }
+
+        public async Task<bool> DeleteCa(int id)
+        {
+            return await _respository.DeleteCa(id);
+        }
     }
 }

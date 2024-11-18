@@ -265,3 +265,4 @@ D:\CODEWEB\WebCaKoi\WebCaKoi\bin\Debug\net8.0\selenium-manager\macos\selenium-ma
 D:\CODEWEB\WebCaKoi\WebCaKoi\bin\Debug\net8.0\selenium-manager\windows\selenium-manager.exe
 D:\CODEWEB\WebCaKoi\WebCaKoi\bin\Debug\net8.0\WebDriver.Support.dll
 D:\CODEWEB\WebCaKoi\WebCaKoi\bin\Debug\net8.0\WebDriver.dll
+D:\CODEWEB\WebCaKoi\WebCaKoi\obj\Debug\net8.0\WebCaKoi.sourcelink.json

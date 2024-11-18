@@ -1,0 +1,63 @@
+﻿@using CaKoi.Respository.Entities;
+@model List<CaCoi>;
+@{
+    Layout = "LayoutAdmin";
+}
+<p>
+    <a asp-action="CreateCa" class="btn btn-primary">Thêm sản phẩm
+    </a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Tên Loài
+            </th>
+            <th>
+                Giá
+            </th>
+            <th>
+                Tuổi
+            </th>
+            <th>
+                Hình Ảnh
+            </th>
+            <th>
+                Số Lượng
+            </th>
+            <th>
+                Mã số
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TenLoai)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Gia)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Tuoi)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.HinhAnh)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SoLuong)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Idloai)
+            </td>
+            <td>
+                    <a asp-action="EditCa" asp-route-id="@item.IdcaKoi" class="btn btn-warning">Edit</a> |
+                
+                <a asp-action="DeleteCa" asp-route-id="@item.IdcaKoi" class="btn btn-danger">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -23,13 +23,13 @@ namespace CaKoi.Service
 
         public void AddToCart(int idkh, int id, int quantity)
         {
-            var khach = _khachRespository.GetKhachByID(idkh);
+            var khach =  _khachRespository.GetKhachByID(idkh);
             if (khach == null)
             {
                 throw new InvalidOperationException("Khách hàng không tồn tại.");
             }
 
-            var caKoi = _caKoiRepository.GetItemByCaKoiId(id);
+            var caKoi =  _caKoiRepository.GetItemByCaKoiId(id);
             if (caKoi == null)
             {
                 throw new InvalidOperationException("Cá koi không tồn tại.");
@@ -47,18 +47,18 @@ namespace CaKoi.Service
                 };
 
                 // Kiểm tra nếu đối tượng này đã tồn tại trong giỏ hàng
-                var existingItem = _cartRepository.GetItemByCaKoiId(caKoi.IdcaKoi);
+                var existingItem =  _cartRepository.GetItemByCaKoiId(khach.Idkh, caKoi.IdcaKoi);
                 if (existingItem != null)
                 {
                     // Nếu đã tồn tại, có thể cập nhật số lượng
                     existingItem.SoLuong += quantity;
                     existingItem.TongTien = existingItem.SoLuong * existingItem.Gia;
-                    _cartRepository.UpdateCartItem(existingItem);
+                   _cartRepository.UpdateCartItem(existingItem);
                 }
                 else
                 {
                     // Nếu chưa tồn tại, thêm mới
-                    _cartRepository.AddToCart(donHangChiTiet);
+                   _cartRepository.AddToCart(donHangChiTiet);
                 }
             }
         }
@@ -77,6 +77,11 @@ namespace CaKoi.Service
         public decimal GetTotal()
         {
             return _cartRepository.GetTotal();
+        }
+
+        public decimal GetTotal(int value)
+        {
+            return _cartRepository.GetTotal(value);
         }
     }
 }

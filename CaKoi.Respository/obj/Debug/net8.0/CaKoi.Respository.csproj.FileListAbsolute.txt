@@ -12,3 +12,4 @@ D:\CODEWEB\WebCaKoi\CaKoi.Respository\obj\Debug\net8.0\ref\CaKoi.Respository.dll
 D:\CODEWEB\WebCaKoi\CaKoi.Respository\bin\Debug\net8.0\CaKoi.Respository.runtimeconfig.json
 D:\CODEWEB\WebCaKoi\CaKoi.Respository\obj\Debug\net8.0\CaKoi.Respository.csproj.AssemblyReference.cache
 D:\CODEWEB\WebCaKoi\CaKoi.Respository\obj\Debug\net8.0\CaKoi.Respository.genruntimeconfig.cache
+D:\CODEWEB\WebCaKoi\CaKoi.Respository\obj\Debug\net8.0\CaKoi.Respository.sourcelink.json

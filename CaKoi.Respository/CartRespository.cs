@@ -18,8 +18,8 @@ namespace CaKoi.Respository
         }
         public void AddToCart(DonHangChiTiet donHangChiTiet)
         {
-            _db.DonHangChiTiets.Add(donHangChiTiet);
-            _db.SaveChanges();
+           _db.DonHangChiTiets.AddAsync(donHangChiTiet);
+           _db.SaveChangesAsync();
         }
 
         public void Deletecart(int id)
@@ -37,9 +37,9 @@ namespace CaKoi.Respository
             return _db.DonHangChiTiets.ToList();
         }
 
-        public DonHangChiTiet GetItemByCaKoiId(int idcaKoi)
+        public DonHangChiTiet GetItemByCaKoiId(int idkh, int idcaKoi)
         {
-            return _db.DonHangChiTiets.FirstOrDefault(d => d.IdcaKoi == idcaKoi);
+            return _db.DonHangChiTiets.FirstOrDefault(d => d.Idkh == idkh && d.IdcaKoi == idcaKoi);
         }
 
         public decimal GetTotal()
@@ -47,9 +47,15 @@ namespace CaKoi.Respository
             return (decimal)_db.DonHangChiTiets.Sum(item => item.TongTien);
         }
 
+        public decimal GetTotal(int id)
+        {
+            return (decimal)_db.DonHangChiTiets.Where(i => i.Idkh == id).Sum(item => item.TongTien);
+        }
+
         public void UpdateCartItem(DonHangChiTiet dct)
         {
-            var existingItem = _db.DonHangChiTiets.FirstOrDefault(d => d.IdcaKoi == dct.IdcaKoi);
+            var existingItem = _db.DonHangChiTiets
+        .FirstOrDefault(d => d.IdcaKoi == dct.IdcaKoi && d.Idkh == dct.Idkh);
             if (existingItem != null)
             {
                 existingItem.SoLuong = dct.SoLuong;

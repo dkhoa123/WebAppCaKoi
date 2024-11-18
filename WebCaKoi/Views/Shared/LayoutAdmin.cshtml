@@ -1,4 +1,8 @@
-﻿<!DOCTYPE html>
+﻿@{
+    var TKadmin = Context.Session.GetString("Admin");
+}
+
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -9,7 +13,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>SB Admin 2 - Dashboard</title>
+    <title>Trang Admin </title>
 
     <!-- Custom fonts for this template-->
     <link href="~/admin/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
@@ -42,9 +46,9 @@
 
             <!-- Nav Item - Dashboard -->
             <li class="nav-item active">
-                <a class="nav-link" href="index.html">
+                <a class="nav-link" href="~/Admin">
                     <i class="fas fa-fw fa-tachometer-alt"></i>
-                    <span>Dashboard</span>
+                    <span>List Order</span>
                 </a>
             </li>
 
@@ -66,10 +70,9 @@
                 <div id="collapsePages" class="collapse" aria-labelledby="headingPages" data-parent="#accordionSidebar">
                     <div class="bg-white py-2 collapse-inner rounded">
                         <h6 class="collapse-header">Làm Việc:</h6>
-                        <a class="collapse-item" href="login.html">Add Nhân Viên</a>
-                        <a class="collapse-item" href="register.html">Add Cá Koi</a>
-                        <a class="collapse-item" href="forgot-password.html">Danh Sách Nhân Viên</a>
-                         <a class="collapse-item" href="forgot-password.html">Danh Sách Khách Hàng</a>
+                        <a class="collapse-item" href="~/Admin/ListCaKoi">Danh Sách Cá Koi</a>
+                        <a class="collapse-item" href="~/Admin/ListNhanVien">Danh Sách Nhân Viên</a>
+                         <a class="collapse-item" href="~/Admin/ListKhachHang">Danh Sách Khách Hàng</a>
                         <div class="collapse-divider"></div>
                     </div>
                 </div>
@@ -106,8 +109,15 @@
                         <a class="nav-link dropdown-toggle" href="#" id="userDropdown" role="button"
                            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                             <span class="mr-2 d-none d-lg-inline text-gray-600 small">
-                                Login
+                            @if (!string.IsNullOrEmpty(TKadmin))
+                            {
 
+                                 @TKadmin
+                            }
+                            else
+                            {
+                                <h6>Login</h6>
+                            }
                             </span>
                             <img class="img-profile rounded-circle"
                                  src="~/admin/img/undraw_profile.svg">
@@ -116,7 +126,11 @@
                         <div class="dropdown-menu dropdown-menu-right shadow animated--grow-in"
                              aria-labelledby="userDropdown">
                             <div class="dropdown-divider"></div>
-                            <a class="dropdown-item" href="#" data-toggle="modal" data-target="#logoutModal">
+                        <a class="dropdown-item" href="~/Admin/LoginAD">
+                            <i class="fas fa-sign-in-alt fa-sm fa-fw mr-2 text-gray-400"></i>
+                            Login
+                        </a>
+                        <a class="dropdown-item" asp-controller="Admin" asp-action="Logout">
                                 <i class="fas fa-sign-out-alt fa-sm fa-fw mr-2 text-gray-400"></i>
                                 Logout
                             </a>
@@ -128,6 +142,7 @@
             </nav>
             <!-- End of Topbar -->
             <div class="container">
+
                 <main role="main" class="pb-3">
             @RenderBody()
                 </main>

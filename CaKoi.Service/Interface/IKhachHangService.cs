@@ -14,5 +14,7 @@ namespace CaKoi.Service.Interface
         KhachHang GetKhachHangByTenTaiKhoan(string tenTaiKhoan);
         KhachHang Login(string username, string password);
         KhachHang GetKhachByID(int id);
+        Task<bool> CapnhatKH(int idkh, KhachHang kh);
+        Task<bool> DeleteKH(int id);
     }
 }

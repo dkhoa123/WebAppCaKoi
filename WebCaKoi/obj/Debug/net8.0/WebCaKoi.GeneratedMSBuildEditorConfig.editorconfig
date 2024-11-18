@@ -26,6 +26,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\CODEWEB\WebCaKoi\WebCaKoi
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/CODEWEB/WebCaKoi/WebCaKoi/Views/Admin/CreateCa.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ3JlYXRlQ2EuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CODEWEB/WebCaKoi/WebCaKoi/Views/Admin/CreateNV.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ3JlYXRlTlYuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/CODEWEB/WebCaKoi/WebCaKoi/Views/Admin/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -34,8 +42,36 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/CODEWEB/WebCaKoi/WebCaKoi/Views/Admin/EditCa.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdENhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CODEWEB/WebCaKoi/WebCaKoi/Views/Admin/EditKH.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdEtILmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CODEWEB/WebCaKoi/WebCaKoi/Views/Admin/EditNV.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdE5WLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/CODEWEB/WebCaKoi/WebCaKoi/Views/Admin/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CODEWEB/WebCaKoi/WebCaKoi/Views/Admin/ListCaKoi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTGlzdENhS29pLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CODEWEB/WebCaKoi/WebCaKoi/Views/Admin/ListKhachHang.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTGlzdEtoYWNoSGFuZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CODEWEB/WebCaKoi/WebCaKoi/Views/Admin/ListNhanVien.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTGlzdE5oYW5WaWVuLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CODEWEB/WebCaKoi/WebCaKoi/Views/Admin/LoginAD.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTG9naW5BRC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/CODEWEB/WebCaKoi/WebCaKoi/Views/Home/Contact.cshtml]

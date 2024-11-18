@@ -21,6 +21,17 @@ namespace CaKoi.Service
             _respository.AddKhachHang(model);
             return true;
         }
+
+        public async Task<bool> CapnhatKH(int idkh, KhachHang kh)
+        {
+            return await _respository.CapnhatKH(idkh, kh);
+        }
+
+        public async Task<bool> DeleteKH(int id)
+        {
+            return await _respository.DeleteKH(id);
+        }
+
         public KhachHang GetKhachByID(int id)
         {
             return _respository.GetKhachByID(id);

@@ -11,8 +11,10 @@ namespace CaKoi.Respository.Interface
     {
         Task<List<KhachHang>> GetKhachHangs();
         Boolean AddKhachHang(KhachHang model);
+        Task<bool> CapnhatKH(int idkh, KhachHang kh);
+        Task<bool> DeleteKH(int id);
         KhachHang GetKhachHangByTenTaiKhoan(string tenTaiKhoan);
         KhachHang GetUserByUsernameAndPassword(string username, string password);
-         KhachHang GetKhachByID(int id);
+        KhachHang GetKhachByID(int id);
     }
 }
